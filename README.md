@@ -8,7 +8,7 @@
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://gifs.com/gif/w07mVg' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://gifs.com/gif/biggernumbergame-28Dvxj' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
