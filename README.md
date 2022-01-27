@@ -8,13 +8,13 @@
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://j.gifs.com/gZ0RQZ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='![BiggerNumberGame](https://user-images.githubusercontent.com/98497332/151377748-5b919368-d2d2-4027-9858-4e0ce7021fbe.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Sebastian Doerrich]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
